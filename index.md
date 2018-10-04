@@ -46,7 +46,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is a Software Carpentry style workshop in which you will learn the basics of working with Matlab and Git. This workshop is hands on, so expect to code along the instructor by following the lessons, that are available online. </h4>
+<h4>This is a Software Carpentry style workshop in which you will learn the basics of working with Matlab and Git. This workshop is hands on, so expect to code along the instructor. The lessons, that we have modified from the Software Carpentry official lessons, will be available online during and after the workshop. </h4>
 
 <h2 id="general">General Information</h2>
 
