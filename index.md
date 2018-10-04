@@ -463,10 +463,10 @@ and our administrator may contact you if we need any extra information.</h4>
   </p>
   
   <p>
-  If you are an OSU faculty, staff or student, you have several options:
+  If you are an OSU faculty, staff or student, you have two options:
   <ol>
-    <li> You can install MATLAB with an OSU license following the instructions in    [https://is.oregonstate.edu/service/software/matlab](https://is.oregonstate.edu/service/software/matlab). We strongly recommend this option for this workshop.</li>
-    <li> You can access MATLAB without having to install it in your own computer using [Citrix](https://it.engineering.oregonstate.edu/citrix).</li>
+    <li> You can install MATLAB with an OSU license following the instructions in    <a href="https://is.oregonstate.edu/service/software/matlab">https://is.oregonstate.edu/service/software/matlab</a>. We strongly recommend this option for this workshop.</li>
+    <li> You can access MATLAB without having to install it in your own computer using <a href="https://it.engineering.oregonstate.edu/citrix">Citrix.</a></li>
   </ol>
   </p>
 </div> {% comment %} End of 'Matlab' section. {% endcomment %}
