@@ -1,5 +1,5 @@
 This repository uses the [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
-[template](https://github.com/carpentries/workshop-template) for creating websites for workshops. Information about[customizing your website][customization], the [FAQ][faq], and [design notes][design] are also available.
+[template](https://github.com/carpentries/workshop-template) for creating websites for workshops. Information about [customizing your website][customization], the [FAQ][faq], and [design notes][design] are also available.
 
 This is not an official Software Carpentry workshop. We are using the workshop template and lessons developed by [Software Carpentry][swc-site] and [Data Carpentry][dc-site] and published with a CC-BY license. 
 
