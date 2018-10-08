@@ -90,10 +90,13 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="where">
   <strong>Where:</strong>
   {{page.address}}.
-  Get directions with
+  Do not trust directions from your phone, construction has messed everything up. Get directions from <a href="https://guin.library.oregonstate.edu/visit-guin">the Guin web page</a>. A map is available <a href="https://guin.library.oregonstate.edu/sites/default/files/guin_library_parking_map_with_construction_0.pdf">here</a>.
+  {% comment %}
+  with
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  {% endcomment %}
 </p>
 {% endif %}
 
