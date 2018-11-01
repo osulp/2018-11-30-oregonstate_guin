@@ -470,3 +470,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   </ol>
   </p>
 </div> {% comment %} End of 'Matlab' section. {% endcomment %}
+
+
+<h2 id="learnmore">Learn more</h2>
+
+<p>
+  In a one day workshop participants can only learn so much. Our goal is that at the end of the workshop learners will have a good idea about what Git and Matlab are for, whether they will be useful for their work, and know how to get started. How to learn more?
+</p>
+  
+<p>
+<ol>
+   <li> <a href="https://osulp.github.io/matlab-novice-inflammation/09_resources_to_learn_more/index.html">A list of resources to learn Matlab</a>.</li>
+   <li><a href="https://osulp.github.io/git-advanced/06_resources_to_learn_more/index.html">A list of resources to learn Git</a>.</li>
+   <li> Create a community! Get to know who works with the same tools around you. Seek help from others, and provide assistance to others when you can. </li>
+</ol>
+</p>
